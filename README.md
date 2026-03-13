@@ -6,6 +6,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg)](https://img.shields.io/badge/)
 [![Tokio](https://img.shields.io/badge/Tokio-1.35-FE6100.svg)](https://img.shields.io/badge/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 [English](#english) | [Português](#português)
 
